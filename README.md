@@ -7,4 +7,4 @@ This Library Management API system is developed for the purpose of easing the pr
 
 ## Future Updates
 1. Adding logging function for each process.
-2. Add OAuth for to manage user login and authorization
+2. Add OAuth to manage user login credentials and authorization
